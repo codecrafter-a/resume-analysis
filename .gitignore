@@ -1,6 +1,4 @@
 # ---------- Secrets ----------
-.env
-.env.local
 .env.*.local
 *.pem
 *.key
@@ -47,3 +45,4 @@ coverage/
 
 # ---------- Local test data ----------
 samples/
+config.bat
